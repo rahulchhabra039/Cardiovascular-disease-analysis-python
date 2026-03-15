@@ -1,5 +1,7 @@
 # Cardiovascular Disease Analysis and Prediction
 
+![Healthcare Dashboard](Healthcare-Dashboard-preview.png)
+
 ## Project Overview
 Cardiovascular diseases (CVD) are one of the leading causes of death globally. Early identification of risk factors can help prevent severe outcomes such as heart attacks. 
 This project analyzes patient health data to identify the key factors that contribute to cardiovascular disease and builds a predictive model to determine the likelihood of heart disease occurrence.
