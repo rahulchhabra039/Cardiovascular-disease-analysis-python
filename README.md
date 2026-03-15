@@ -2,9 +2,7 @@
 
 ## Project Overview
 Cardiovascular diseases (CVD) are one of the leading causes of death globally. Early identification of risk factors can help prevent severe outcomes such as heart attacks. 
-
 This project analyzes patient health data to identify the key factors that contribute to cardiovascular disease and builds a predictive model to determine the likelihood of heart disease occurrence.
-
 The analysis includes exploratory data analysis (EDA), statistical insights, machine learning modeling using Logistic Regression, and an interactive dashboard built in Tableau to visualize the findings.
 
 ---
@@ -107,21 +105,6 @@ The dashboard highlights:
 ## Dashboard Preview
 
 ![Healthcare Dashboard](Healthcare-Dashboard-preview.png)
-
----
-
-
----
-
-## Key Insights
-
-- Age and cholesterol levels show strong correlation with cardiovascular disease.
-- Exercise-induced angina is a major indicator of heart disease.
-- Patients with abnormal thalassemia levels show higher risk.
-- Logistic regression successfully predicts the likelihood of heart disease.
-
----
-
 
 ---
 
