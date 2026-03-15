@@ -1,5 +1,7 @@
 # Cardiovascular Disease Analysis and Prediction
 
+Python and Tableau project analyzing cardiovascular disease risk factors and predicting heart disease occurrence.
+
 ![Healthcare Dashboard](Healthcare-Dashboard-preview.png)
 
 ## Project Overview
