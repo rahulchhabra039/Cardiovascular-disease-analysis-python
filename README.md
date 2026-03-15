@@ -101,13 +101,7 @@ The dashboard highlights:
 - Cholesterol impact
 - Maximum heart rate analysis
 - Chest pain analysis
-
----
-
-## Dashboard Preview
-
-![Healthcare Dashboard](Healthcare-Dashboard-preview.png)
-
+- 
 ---
 
 ## Key Insights
